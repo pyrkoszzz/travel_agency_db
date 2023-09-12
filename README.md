@@ -1,1 +1,2 @@
-# travel_agency_db
+# Database project for a travel agency
+This database project is designed to streamline and organize the operations of a travel agency. It includes features for managing customer information, booking reservations, tracking itineraries, and storing details about various travel destinations, accommodations, and pricing. The system aims to enhance efficiency and customer service within the agency, making it easier to plan and book unforgettable journeys for clients
